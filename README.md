@@ -1,25 +1,19 @@
-# SAS-tools – FAIR tools for small-angle scattering data
+# SAS-workflows – FAIR workflows for small-angle scattering data
 
-Welcome to the SAS-tools repository! We develop FAIR, scalable, and sustainable tools for use in analyzing and managing small-angle X-ray scattering (SAXS) data, small-angle neutron scattering (SANS) data, and more.
+Welcome to the SAS-workflows repository! You can find published workflows that solve specific problems for small-angle X-ray scattering (SAXS) data, small-angle neutron scattering (SANS) data, and more in here.
 
-## 🛠️ What is SAS-tools?
+## 🛤 What is SAS-workflows?
 
 The SAS-tools contains useful functions and classes for reading, transforming, working with, analyzing, managing, and storing SAS data (called **tools**). These tools are generic, making it easy to use and re-purpose them.
 
 ## ⚡️ Quick Start
 
-Get started with SAS-tools by installing the package from PyPI:
+Get started with SAS-workflows by cloning this repository and modifying a Notebook that solves a similar problem to yours:
 
 ```bash
-python -m pip install SAS-tools
-```
-
-Alternatively, build SAS-tools from source:
-
-```bash
-git clone https://github.com/FAIRChemistry/SAS-tools/
-cd SAS-tools
-python setup.py install
+git clone https://github.com/FAIRChemistry/SAS-workflows/
+cd SAS-workflows
+jupyter lab    # alternatively: jupyter notebook
 ```
 
 ## 🔖 Example Code
