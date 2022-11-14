@@ -4,7 +4,7 @@ Welcome to the SAS-workflows repository! You can find published workflows that s
 
 ## 🛤 What is SAS-workflows?
 
-The SAS-tools contains useful functions and classes for reading, transforming, working with, analyzing, managing, and storing SAS data (called **tools**). These tools are generic, making it easy to use and re-purpose them.
+The SAS-workflows contains various Jupyter Notebooks that implement [SAS-tools](https://github.com/FAIRChemistry/SAS-tools) and other packages/libaries to work with SAS data answer a certain research question, to solve a given problem, or perform a specific task (called **workflows**). These workflows can be used as examples for implementing SAS-tools, as well as as templates and inspiration for novel workflows.
 
 ## ⚡️ Quick Start
 
