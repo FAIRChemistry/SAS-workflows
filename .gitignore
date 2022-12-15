@@ -133,3 +133,6 @@ dmypy.json
 
 # Legacy modules and files
 .legacy/
+
+# Custom files
+.DS_STORE
